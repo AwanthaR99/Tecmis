@@ -1,0 +1,2 @@
+# Tecmis
+Student Management System
